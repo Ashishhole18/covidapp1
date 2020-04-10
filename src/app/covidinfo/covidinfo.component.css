@@ -1,0 +1,19 @@
+img{
+    height: 350px;
+    width: 420px;
+    
+}
+p{
+    
+    text-align: justify;
+  text-justify: inter-word;
+}
+h4{
+    color: cornflowerblue;
+    text-decoration: underline;
+    
+}
+#tab
+{
+    text-align: center;
+}
